@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite it using these metadata.
+title: test
+abstract: "Unknown-language repository on the main branch, 0 tracked dependencies across 0 manifest(s), 2 open issue(s) and 0 open pull request(s). This repository serves as an empty organizational stub containing only a ledger for Tiresias, the autonomous repository steward. It lacks application logic, source code, or functional implementation files."
+authors:
+  - name: "takk-tiresias-test"
+license: Apache-2.0
+repository-code: https://github.com/takk-tiresias-test/test
